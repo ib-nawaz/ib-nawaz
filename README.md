@@ -72,7 +72,7 @@
 <tr>
 <td width="100%" valign="top">
 
-### Languages
+<h3>Languages</h3> 
 
 <img src="https://skillicons.dev/icons?i=python,js" height="50"/>
 
@@ -84,7 +84,7 @@
 <tr>
 <td width="100%" valign="top">
 
-### Frontend
+<h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" height="50"/>
 <!-- ,react,next -->
@@ -94,7 +94,7 @@
 <!-- <tr>
 <td width="100%" valign="top">
 
-### Backend
+<h3>Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
 
@@ -104,7 +104,7 @@
 <!-- <tr>
 <td width="100%" valign="top">
 
-### Databases
+<h3> Databases </h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
 
@@ -114,7 +114,7 @@
 <!-- <tr>
 <td width="100%" valign="top">
 
-### Cloud
+<h3>Cloud</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,azure" height="50"/>
 
@@ -124,7 +124,7 @@
 <tr>
 <td width="100%" valign="top">
 
-### Tools & Platforms
+<h3>Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
 <!--<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/antigravity.webp"
