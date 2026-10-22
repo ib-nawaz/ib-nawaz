@@ -86,8 +86,8 @@
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" height="50"/>
-<!-- ,react,next -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" height="50"/>
+<!--next -->
 </td>
 </tr>
 
